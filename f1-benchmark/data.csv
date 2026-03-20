@@ -1,0 +1,481 @@
+driver,team,position,points,elite_team
+Max Verstappen,Red Bull,1,25,TRUE
+Max Verstappen,Red Bull,1,25,TRUE
+Max Verstappen,Red Bull,2,18,TRUE
+Max Verstappen,Red Bull,1,25,TRUE
+Max Verstappen,Red Bull,3,15,TRUE
+Max Verstappen,Red Bull,1,25,TRUE
+Max Verstappen,Red Bull,2,18,TRUE
+Max Verstappen,Red Bull,1,25,TRUE
+Max Verstappen,Red Bull,4,12,TRUE
+Max Verstappen,Red Bull,1,25,TRUE
+Max Verstappen,Red Bull,2,18,TRUE
+Max Verstappen,Red Bull,1,25,TRUE
+Max Verstappen,Red Bull,3,15,TRUE
+Max Verstappen,Red Bull,5,10,TRUE
+Max Verstappen,Red Bull,1,25,TRUE
+Max Verstappen,Red Bull,2,18,TRUE
+Max Verstappen,Red Bull,1,25,TRUE
+Max Verstappen,Red Bull,6,8,TRUE
+Max Verstappen,Red Bull,1,25,TRUE
+Max Verstappen,Red Bull,2,18,TRUE
+Max Verstappen,Red Bull,3,15,TRUE
+Max Verstappen,Red Bull,1,25,TRUE
+Max Verstappen,Red Bull,4,12,TRUE
+Max Verstappen,Red Bull,1,25,TRUE
+Liam Lawson,Red Bull,5,10,TRUE
+Liam Lawson,Red Bull,7,6,TRUE
+Liam Lawson,Red Bull,4,12,TRUE
+Liam Lawson,Red Bull,6,8,TRUE
+Liam Lawson,Red Bull,3,15,TRUE
+Liam Lawson,Red Bull,8,4,TRUE
+Liam Lawson,Red Bull,5,10,TRUE
+Liam Lawson,Red Bull,9,2,TRUE
+Liam Lawson,Red Bull,4,12,TRUE
+Liam Lawson,Red Bull,6,8,TRUE
+Liam Lawson,Red Bull,7,6,TRUE
+Liam Lawson,Red Bull,5,10,TRUE
+Liam Lawson,Red Bull,11,0,TRUE
+Liam Lawson,Red Bull,4,12,TRUE
+Liam Lawson,Red Bull,6,8,TRUE
+Liam Lawson,Red Bull,3,15,TRUE
+Liam Lawson,Red Bull,8,4,TRUE
+Liam Lawson,Red Bull,5,10,TRUE
+Liam Lawson,Red Bull,7,6,TRUE
+Liam Lawson,Red Bull,4,12,TRUE
+Liam Lawson,Red Bull,6,8,TRUE
+Liam Lawson,Red Bull,10,1,TRUE
+Liam Lawson,Red Bull,5,10,TRUE
+Liam Lawson,Red Bull,7,6,TRUE
+Charles Leclerc,Ferrari,2,18,TRUE
+Charles Leclerc,Ferrari,1,25,TRUE
+Charles Leclerc,Ferrari,3,15,TRUE
+Charles Leclerc,Ferrari,2,18,TRUE
+Charles Leclerc,Ferrari,1,25,TRUE
+Charles Leclerc,Ferrari,4,12,TRUE
+Charles Leclerc,Ferrari,2,18,TRUE
+Charles Leclerc,Ferrari,1,25,TRUE
+Charles Leclerc,Ferrari,3,15,TRUE
+Charles Leclerc,Ferrari,5,10,TRUE
+Charles Leclerc,Ferrari,2,18,TRUE
+Charles Leclerc,Ferrari,1,25,TRUE
+Charles Leclerc,Ferrari,4,12,TRUE
+Charles Leclerc,Ferrari,2,18,TRUE
+Charles Leclerc,Ferrari,6,8,TRUE
+Charles Leclerc,Ferrari,3,15,TRUE
+Charles Leclerc,Ferrari,1,25,TRUE
+Charles Leclerc,Ferrari,2,18,TRUE
+Charles Leclerc,Ferrari,7,6,TRUE
+Charles Leclerc,Ferrari,3,15,TRUE
+Charles Leclerc,Ferrari,1,25,TRUE
+Charles Leclerc,Ferrari,4,12,TRUE
+Charles Leclerc,Ferrari,2,18,TRUE
+Charles Leclerc,Ferrari,5,10,TRUE
+Lewis Hamilton,Ferrari,3,15,TRUE
+Lewis Hamilton,Ferrari,4,12,TRUE
+Lewis Hamilton,Ferrari,2,18,TRUE
+Lewis Hamilton,Ferrari,5,10,TRUE
+Lewis Hamilton,Ferrari,3,15,TRUE
+Lewis Hamilton,Ferrari,1,25,TRUE
+Lewis Hamilton,Ferrari,4,12,TRUE
+Lewis Hamilton,Ferrari,2,18,TRUE
+Lewis Hamilton,Ferrari,6,8,TRUE
+Lewis Hamilton,Ferrari,3,15,TRUE
+Lewis Hamilton,Ferrari,5,10,TRUE
+Lewis Hamilton,Ferrari,4,12,TRUE
+Lewis Hamilton,Ferrari,2,18,TRUE
+Lewis Hamilton,Ferrari,7,6,TRUE
+Lewis Hamilton,Ferrari,3,15,TRUE
+Lewis Hamilton,Ferrari,5,10,TRUE
+Lewis Hamilton,Ferrari,4,12,TRUE
+Lewis Hamilton,Ferrari,2,18,TRUE
+Lewis Hamilton,Ferrari,8,4,TRUE
+Lewis Hamilton,Ferrari,3,15,TRUE
+Lewis Hamilton,Ferrari,1,25,TRUE
+Lewis Hamilton,Ferrari,6,8,TRUE
+Lewis Hamilton,Ferrari,4,12,TRUE
+Lewis Hamilton,Ferrari,3,15,TRUE
+Lando Norris,McLaren,2,18,TRUE
+Lando Norris,McLaren,3,15,TRUE
+Lando Norris,McLaren,1,25,TRUE
+Lando Norris,McLaren,2,18,TRUE
+Lando Norris,McLaren,4,12,TRUE
+Lando Norris,McLaren,2,18,TRUE
+Lando Norris,McLaren,1,25,TRUE
+Lando Norris,McLaren,3,15,TRUE
+Lando Norris,McLaren,2,18,TRUE
+Lando Norris,McLaren,5,10,TRUE
+Lando Norris,McLaren,1,25,TRUE
+Lando Norris,McLaren,2,18,TRUE
+Lando Norris,McLaren,3,15,TRUE
+Lando Norris,McLaren,1,25,TRUE
+Lando Norris,McLaren,4,12,TRUE
+Lando Norris,McLaren,2,18,TRUE
+Lando Norris,McLaren,6,8,TRUE
+Lando Norris,McLaren,3,15,TRUE
+Lando Norris,McLaren,1,25,TRUE
+Lando Norris,McLaren,2,18,TRUE
+Lando Norris,McLaren,5,10,TRUE
+Lando Norris,McLaren,3,15,TRUE
+Lando Norris,McLaren,2,18,TRUE
+Lando Norris,McLaren,4,12,TRUE
+Oscar Piastri,McLaren,4,12,TRUE
+Oscar Piastri,McLaren,2,18,TRUE
+Oscar Piastri,McLaren,3,15,TRUE
+Oscar Piastri,McLaren,1,25,TRUE
+Oscar Piastri,McLaren,5,10,TRUE
+Oscar Piastri,McLaren,3,15,TRUE
+Oscar Piastri,McLaren,4,12,TRUE
+Oscar Piastri,McLaren,2,18,TRUE
+Oscar Piastri,McLaren,1,25,TRUE
+Oscar Piastri,McLaren,6,8,TRUE
+Oscar Piastri,McLaren,3,15,TRUE
+Oscar Piastri,McLaren,4,12,TRUE
+Oscar Piastri,McLaren,2,18,TRUE
+Oscar Piastri,McLaren,5,10,TRUE
+Oscar Piastri,McLaren,3,15,TRUE
+Oscar Piastri,McLaren,1,25,TRUE
+Oscar Piastri,McLaren,4,12,TRUE
+Oscar Piastri,McLaren,6,8,TRUE
+Oscar Piastri,McLaren,2,18,TRUE
+Oscar Piastri,McLaren,3,15,TRUE
+Oscar Piastri,McLaren,7,6,TRUE
+Oscar Piastri,McLaren,4,12,TRUE
+Oscar Piastri,McLaren,2,18,TRUE
+Oscar Piastri,McLaren,5,10,TRUE
+George Russell,Mercedes,3,15,TRUE
+George Russell,Mercedes,5,10,TRUE
+George Russell,Mercedes,4,12,TRUE
+George Russell,Mercedes,3,15,TRUE
+George Russell,Mercedes,2,18,TRUE
+George Russell,Mercedes,6,8,TRUE
+George Russell,Mercedes,3,15,TRUE
+George Russell,Mercedes,5,10,TRUE
+George Russell,Mercedes,2,18,TRUE
+George Russell,Mercedes,4,12,TRUE
+George Russell,Mercedes,1,25,TRUE
+George Russell,Mercedes,3,15,TRUE
+George Russell,Mercedes,6,8,TRUE
+George Russell,Mercedes,4,12,TRUE
+George Russell,Mercedes,3,15,TRUE
+George Russell,Mercedes,5,10,TRUE
+George Russell,Mercedes,2,18,TRUE
+George Russell,Mercedes,7,6,TRUE
+George Russell,Mercedes,4,12,TRUE
+George Russell,Mercedes,3,15,TRUE
+George Russell,Mercedes,5,10,TRUE
+George Russell,Mercedes,2,18,TRUE
+George Russell,Mercedes,6,8,TRUE
+George Russell,Mercedes,4,12,TRUE
+Andrea Kimi Antonelli,Mercedes,6,8,TRUE
+Andrea Kimi Antonelli,Mercedes,8,4,TRUE
+Andrea Kimi Antonelli,Mercedes,5,10,TRUE
+Andrea Kimi Antonelli,Mercedes,7,6,TRUE
+Andrea Kimi Antonelli,Mercedes,4,12,TRUE
+Andrea Kimi Antonelli,Mercedes,9,2,TRUE
+Andrea Kimi Antonelli,Mercedes,6,8,TRUE
+Andrea Kimi Antonelli,Mercedes,5,10,TRUE
+Andrea Kimi Antonelli,Mercedes,3,15,TRUE
+Andrea Kimi Antonelli,Mercedes,8,4,TRUE
+Andrea Kimi Antonelli,Mercedes,6,8,TRUE
+Andrea Kimi Antonelli,Mercedes,4,12,TRUE
+Andrea Kimi Antonelli,Mercedes,7,6,TRUE
+Andrea Kimi Antonelli,Mercedes,5,10,TRUE
+Andrea Kimi Antonelli,Mercedes,10,1,TRUE
+Andrea Kimi Antonelli,Mercedes,6,8,TRUE
+Andrea Kimi Antonelli,Mercedes,4,12,TRUE
+Andrea Kimi Antonelli,Mercedes,8,4,TRUE
+Andrea Kimi Antonelli,Mercedes,5,10,TRUE
+Andrea Kimi Antonelli,Mercedes,7,6,TRUE
+Andrea Kimi Antonelli,Mercedes,3,15,TRUE
+Andrea Kimi Antonelli,Mercedes,9,2,TRUE
+Andrea Kimi Antonelli,Mercedes,6,8,TRUE
+Andrea Kimi Antonelli,Mercedes,11,0,TRUE
+Fernando Alonso,Aston Martin,7,6,FALSE
+Fernando Alonso,Aston Martin,9,2,FALSE
+Fernando Alonso,Aston Martin,6,8,FALSE
+Fernando Alonso,Aston Martin,11,0,FALSE
+Fernando Alonso,Aston Martin,8,4,FALSE
+Fernando Alonso,Aston Martin,7,6,FALSE
+Fernando Alonso,Aston Martin,5,10,FALSE
+Fernando Alonso,Aston Martin,10,1,FALSE
+Fernando Alonso,Aston Martin,8,4,FALSE
+Fernando Alonso,Aston Martin,6,8,FALSE
+Fernando Alonso,Aston Martin,12,0,FALSE
+Fernando Alonso,Aston Martin,9,2,FALSE
+Fernando Alonso,Aston Martin,7,6,FALSE
+Fernando Alonso,Aston Martin,13,0,FALSE
+Fernando Alonso,Aston Martin,8,4,FALSE
+Fernando Alonso,Aston Martin,6,8,FALSE
+Fernando Alonso,Aston Martin,10,1,FALSE
+Fernando Alonso,Aston Martin,7,6,FALSE
+Fernando Alonso,Aston Martin,4,12,FALSE
+Fernando Alonso,Aston Martin,9,2,FALSE
+Fernando Alonso,Aston Martin,11,0,FALSE
+Fernando Alonso,Aston Martin,8,4,FALSE
+Fernando Alonso,Aston Martin,6,8,FALSE
+Fernando Alonso,Aston Martin,7,6,FALSE
+Lance Stroll,Aston Martin,12,0,FALSE
+Lance Stroll,Aston Martin,14,0,FALSE
+Lance Stroll,Aston Martin,10,1,FALSE
+Lance Stroll,Aston Martin,13,0,FALSE
+Lance Stroll,Aston Martin,11,0,FALSE
+Lance Stroll,Aston Martin,15,0,FALSE
+Lance Stroll,Aston Martin,9,2,FALSE
+Lance Stroll,Aston Martin,12,0,FALSE
+Lance Stroll,Aston Martin,14,0,FALSE
+Lance Stroll,Aston Martin,10,1,FALSE
+Lance Stroll,Aston Martin,13,0,FALSE
+Lance Stroll,Aston Martin,11,0,FALSE
+Lance Stroll,Aston Martin,8,4,FALSE
+Lance Stroll,Aston Martin,14,0,FALSE
+Lance Stroll,Aston Martin,12,0,FALSE
+Lance Stroll,Aston Martin,16,0,FALSE
+Lance Stroll,Aston Martin,10,1,FALSE
+Lance Stroll,Aston Martin,13,0,FALSE
+Lance Stroll,Aston Martin,11,0,FALSE
+Lance Stroll,Aston Martin,15,0,FALSE
+Lance Stroll,Aston Martin,9,2,FALSE
+Lance Stroll,Aston Martin,12,0,FALSE
+Lance Stroll,Aston Martin,14,0,FALSE
+Lance Stroll,Aston Martin,10,1,FALSE
+Pierre Gasly,Alpine,9,2,FALSE
+Pierre Gasly,Alpine,11,0,FALSE
+Pierre Gasly,Alpine,8,4,FALSE
+Pierre Gasly,Alpine,12,0,FALSE
+Pierre Gasly,Alpine,10,1,FALSE
+Pierre Gasly,Alpine,9,2,FALSE
+Pierre Gasly,Alpine,13,0,FALSE
+Pierre Gasly,Alpine,8,4,FALSE
+Pierre Gasly,Alpine,11,0,FALSE
+Pierre Gasly,Alpine,7,6,FALSE
+Pierre Gasly,Alpine,10,1,FALSE
+Pierre Gasly,Alpine,12,0,FALSE
+Pierre Gasly,Alpine,9,2,FALSE
+Pierre Gasly,Alpine,14,0,FALSE
+Pierre Gasly,Alpine,8,4,FALSE
+Pierre Gasly,Alpine,11,0,FALSE
+Pierre Gasly,Alpine,9,2,FALSE
+Pierre Gasly,Alpine,13,0,FALSE
+Pierre Gasly,Alpine,7,6,FALSE
+Pierre Gasly,Alpine,10,1,FALSE
+Pierre Gasly,Alpine,12,0,FALSE
+Pierre Gasly,Alpine,8,4,FALSE
+Pierre Gasly,Alpine,11,0,FALSE
+Pierre Gasly,Alpine,9,2,FALSE
+Jack Doohan,Alpine,14,0,FALSE
+Jack Doohan,Alpine,16,0,FALSE
+Jack Doohan,Alpine,13,0,FALSE
+Jack Doohan,Alpine,15,0,FALSE
+Jack Doohan,Alpine,17,0,FALSE
+Jack Doohan,Alpine,12,0,FALSE
+Jack Doohan,Alpine,14,0,FALSE
+Jack Doohan,Alpine,16,0,FALSE
+Jack Doohan,Alpine,13,0,FALSE
+Jack Doohan,Alpine,11,0,FALSE
+Jack Doohan,Alpine,15,0,FALSE
+Jack Doohan,Alpine,14,0,FALSE
+Jack Doohan,Alpine,12,0,FALSE
+Jack Doohan,Alpine,16,0,FALSE
+Jack Doohan,Alpine,13,0,FALSE
+Jack Doohan,Alpine,18,0,FALSE
+Jack Doohan,Alpine,14,0,FALSE
+Jack Doohan,Alpine,15,0,FALSE
+Jack Doohan,Alpine,10,1,FALSE
+Jack Doohan,Alpine,16,0,FALSE
+Jack Doohan,Alpine,13,0,FALSE
+Jack Doohan,Alpine,17,0,FALSE
+Jack Doohan,Alpine,14,0,FALSE
+Jack Doohan,Alpine,15,0,FALSE
+Alexander Albon,Williams,10,1,FALSE
+Alexander Albon,Williams,8,4,FALSE
+Alexander Albon,Williams,11,0,FALSE
+Alexander Albon,Williams,9,2,FALSE
+Alexander Albon,Williams,13,0,FALSE
+Alexander Albon,Williams,10,1,FALSE
+Alexander Albon,Williams,8,4,FALSE
+Alexander Albon,Williams,12,0,FALSE
+Alexander Albon,Williams,9,2,FALSE
+Alexander Albon,Williams,11,0,FALSE
+Alexander Albon,Williams,7,6,FALSE
+Alexander Albon,Williams,10,1,FALSE
+Alexander Albon,Williams,13,0,FALSE
+Alexander Albon,Williams,9,2,FALSE
+Alexander Albon,Williams,11,0,FALSE
+Alexander Albon,Williams,8,4,FALSE
+Alexander Albon,Williams,12,0,FALSE
+Alexander Albon,Williams,10,1,FALSE
+Alexander Albon,Williams,14,0,FALSE
+Alexander Albon,Williams,9,2,FALSE
+Alexander Albon,Williams,11,0,FALSE
+Alexander Albon,Williams,8,4,FALSE
+Alexander Albon,Williams,10,1,FALSE
+Alexander Albon,Williams,12,0,FALSE
+Carlos Sainz,Williams,8,4,FALSE
+Carlos Sainz,Williams,10,1,FALSE
+Carlos Sainz,Williams,7,6,FALSE
+Carlos Sainz,Williams,9,2,FALSE
+Carlos Sainz,Williams,11,0,FALSE
+Carlos Sainz,Williams,8,4,FALSE
+Carlos Sainz,Williams,6,8,FALSE
+Carlos Sainz,Williams,10,1,FALSE
+Carlos Sainz,Williams,12,0,FALSE
+Carlos Sainz,Williams,8,4,FALSE
+Carlos Sainz,Williams,9,2,FALSE
+Carlos Sainz,Williams,7,6,FALSE
+Carlos Sainz,Williams,11,0,FALSE
+Carlos Sainz,Williams,8,4,FALSE
+Carlos Sainz,Williams,10,1,FALSE
+Carlos Sainz,Williams,13,0,FALSE
+Carlos Sainz,Williams,9,2,FALSE
+Carlos Sainz,Williams,7,6,FALSE
+Carlos Sainz,Williams,11,0,FALSE
+Carlos Sainz,Williams,8,4,FALSE
+Carlos Sainz,Williams,12,0,FALSE
+Carlos Sainz,Williams,10,1,FALSE
+Carlos Sainz,Williams,9,2,FALSE
+Carlos Sainz,Williams,14,0,FALSE
+Esteban Ocon,Haas,11,0,FALSE
+Esteban Ocon,Haas,13,0,FALSE
+Esteban Ocon,Haas,9,2,FALSE
+Esteban Ocon,Haas,12,0,FALSE
+Esteban Ocon,Haas,14,0,FALSE
+Esteban Ocon,Haas,10,1,FALSE
+Esteban Ocon,Haas,12,0,FALSE
+Esteban Ocon,Haas,11,0,FALSE
+Esteban Ocon,Haas,15,0,FALSE
+Esteban Ocon,Haas,10,1,FALSE
+Esteban Ocon,Haas,13,0,FALSE
+Esteban Ocon,Haas,11,0,FALSE
+Esteban Ocon,Haas,9,2,FALSE
+Esteban Ocon,Haas,14,0,FALSE
+Esteban Ocon,Haas,12,0,FALSE
+Esteban Ocon,Haas,10,1,FALSE
+Esteban Ocon,Haas,13,0,FALSE
+Esteban Ocon,Haas,15,0,FALSE
+Esteban Ocon,Haas,11,0,FALSE
+Esteban Ocon,Haas,9,2,FALSE
+Esteban Ocon,Haas,12,0,FALSE
+Esteban Ocon,Haas,14,0,FALSE
+Esteban Ocon,Haas,10,1,FALSE
+Esteban Ocon,Haas,13,0,FALSE
+Oliver Bearman,Haas,13,0,FALSE
+Oliver Bearman,Haas,15,0,FALSE
+Oliver Bearman,Haas,12,0,FALSE
+Oliver Bearman,Haas,14,0,FALSE
+Oliver Bearman,Haas,16,0,FALSE
+Oliver Bearman,Haas,13,0,FALSE
+Oliver Bearman,Haas,11,0,FALSE
+Oliver Bearman,Haas,15,0,FALSE
+Oliver Bearman,Haas,13,0,FALSE
+Oliver Bearman,Haas,12,0,FALSE
+Oliver Bearman,Haas,17,0,FALSE
+Oliver Bearman,Haas,14,0,FALSE
+Oliver Bearman,Haas,13,0,FALSE
+Oliver Bearman,Haas,16,0,FALSE
+Oliver Bearman,Haas,11,0,FALSE
+Oliver Bearman,Haas,13,0,FALSE
+Oliver Bearman,Haas,15,0,FALSE
+Oliver Bearman,Haas,12,0,FALSE
+Oliver Bearman,Haas,14,0,FALSE
+Oliver Bearman,Haas,10,1,FALSE
+Oliver Bearman,Haas,13,0,FALSE
+Oliver Bearman,Haas,16,0,FALSE
+Oliver Bearman,Haas,14,0,FALSE
+Oliver Bearman,Haas,15,0,FALSE
+Nico Hulkenberg,Kick Sauber,12,0,FALSE
+Nico Hulkenberg,Kick Sauber,10,1,FALSE
+Nico Hulkenberg,Kick Sauber,14,0,FALSE
+Nico Hulkenberg,Kick Sauber,11,0,FALSE
+Nico Hulkenberg,Kick Sauber,13,0,FALSE
+Nico Hulkenberg,Kick Sauber,9,2,FALSE
+Nico Hulkenberg,Kick Sauber,12,0,FALSE
+Nico Hulkenberg,Kick Sauber,15,0,FALSE
+Nico Hulkenberg,Kick Sauber,11,0,FALSE
+Nico Hulkenberg,Kick Sauber,13,0,FALSE
+Nico Hulkenberg,Kick Sauber,10,1,FALSE
+Nico Hulkenberg,Kick Sauber,14,0,FALSE
+Nico Hulkenberg,Kick Sauber,12,0,FALSE
+Nico Hulkenberg,Kick Sauber,16,0,FALSE
+Nico Hulkenberg,Kick Sauber,11,0,FALSE
+Nico Hulkenberg,Kick Sauber,13,0,FALSE
+Nico Hulkenberg,Kick Sauber,9,2,FALSE
+Nico Hulkenberg,Kick Sauber,12,0,FALSE
+Nico Hulkenberg,Kick Sauber,15,0,FALSE
+Nico Hulkenberg,Kick Sauber,11,0,FALSE
+Nico Hulkenberg,Kick Sauber,13,0,FALSE
+Nico Hulkenberg,Kick Sauber,10,1,FALSE
+Nico Hulkenberg,Kick Sauber,14,0,FALSE
+Nico Hulkenberg,Kick Sauber,12,0,FALSE
+Gabriel Bortoleto,Kick Sauber,15,0,FALSE
+Gabriel Bortoleto,Kick Sauber,17,0,FALSE
+Gabriel Bortoleto,Kick Sauber,14,0,FALSE
+Gabriel Bortoleto,Kick Sauber,16,0,FALSE
+Gabriel Bortoleto,Kick Sauber,18,0,FALSE
+Gabriel Bortoleto,Kick Sauber,15,0,FALSE
+Gabriel Bortoleto,Kick Sauber,13,0,FALSE
+Gabriel Bortoleto,Kick Sauber,17,0,FALSE
+Gabriel Bortoleto,Kick Sauber,14,0,FALSE
+Gabriel Bortoleto,Kick Sauber,16,0,FALSE
+Gabriel Bortoleto,Kick Sauber,15,0,FALSE
+Gabriel Bortoleto,Kick Sauber,13,0,FALSE
+Gabriel Bortoleto,Kick Sauber,17,0,FALSE
+Gabriel Bortoleto,Kick Sauber,15,0,FALSE
+Gabriel Bortoleto,Kick Sauber,11,0,FALSE
+Gabriel Bortoleto,Kick Sauber,16,0,FALSE
+Gabriel Bortoleto,Kick Sauber,14,0,FALSE
+Gabriel Bortoleto,Kick Sauber,18,0,FALSE
+Gabriel Bortoleto,Kick Sauber,15,0,FALSE
+Gabriel Bortoleto,Kick Sauber,13,0,FALSE
+Gabriel Bortoleto,Kick Sauber,17,0,FALSE
+Gabriel Bortoleto,Kick Sauber,14,0,FALSE
+Gabriel Bortoleto,Kick Sauber,16,0,FALSE
+Gabriel Bortoleto,Kick Sauber,15,0,FALSE
+Yuki Tsunoda,VCARB,10,1,FALSE
+Yuki Tsunoda,VCARB,12,0,FALSE
+Yuki Tsunoda,VCARB,9,2,FALSE
+Yuki Tsunoda,VCARB,11,0,FALSE
+Yuki Tsunoda,VCARB,13,0,FALSE
+Yuki Tsunoda,VCARB,10,1,FALSE
+Yuki Tsunoda,VCARB,8,4,FALSE
+Yuki Tsunoda,VCARB,12,0,FALSE
+Yuki Tsunoda,VCARB,10,1,FALSE
+Yuki Tsunoda,VCARB,14,0,FALSE
+Yuki Tsunoda,VCARB,11,0,FALSE
+Yuki Tsunoda,VCARB,9,2,FALSE
+Yuki Tsunoda,VCARB,13,0,FALSE
+Yuki Tsunoda,VCARB,10,1,FALSE
+Yuki Tsunoda,VCARB,12,0,FALSE
+Yuki Tsunoda,VCARB,11,0,FALSE
+Yuki Tsunoda,VCARB,9,2,FALSE
+Yuki Tsunoda,VCARB,13,0,FALSE
+Yuki Tsunoda,VCARB,10,1,FALSE
+Yuki Tsunoda,VCARB,12,0,FALSE
+Yuki Tsunoda,VCARB,14,0,FALSE
+Yuki Tsunoda,VCARB,11,0,FALSE
+Yuki Tsunoda,VCARB,9,2,FALSE
+Yuki Tsunoda,VCARB,13,0,FALSE
+Isack Hadjar,VCARB,14,0,FALSE
+Isack Hadjar,VCARB,16,0,FALSE
+Isack Hadjar,VCARB,13,0,FALSE
+Isack Hadjar,VCARB,15,0,FALSE
+Isack Hadjar,VCARB,17,0,FALSE
+Isack Hadjar,VCARB,14,0,FALSE
+Isack Hadjar,VCARB,12,0,FALSE
+Isack Hadjar,VCARB,16,0,FALSE
+Isack Hadjar,VCARB,14,0,FALSE
+Isack Hadjar,VCARB,13,0,FALSE
+Isack Hadjar,VCARB,15,0,FALSE
+Isack Hadjar,VCARB,17,0,FALSE
+Isack Hadjar,VCARB,14,0,FALSE
+Isack Hadjar,VCARB,12,0,FALSE
+Isack Hadjar,VCARB,16,0,FALSE
+Isack Hadjar,VCARB,13,0,FALSE
+Isack Hadjar,VCARB,11,0,FALSE
+Isack Hadjar,VCARB,15,0,FALSE
+Isack Hadjar,VCARB,14,0,FALSE
+Isack Hadjar,VCARB,16,0,FALSE
+Isack Hadjar,VCARB,13,0,FALSE
+Isack Hadjar,VCARB,17,0,FALSE
+Isack Hadjar,VCARB,15,0,FALSE
+Isack Hadjar,VCARB,14,0,FALSE
